@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Disallow:
+
+# Sitemap location
+Sitemap: https://901treeremoval.github.io/901TREESERVICES/sitemap.xml
